@@ -1,0 +1,5 @@
+{
+  "name": "WorldGrid 3D Interactive Sphere",
+  "description": "An interactive 3D image sphere gallery with rotation, zoom, and lightbox features, inspired by WorldGrid for Framer.",
+  "requestFramePermissions": []
+}
